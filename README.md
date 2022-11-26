@@ -15,6 +15,7 @@ I am Shivangi, a backend developer
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,10 +30,13 @@ I am Shivangi, a backend developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 
+<h3 align="left">Total views: </h3>
+
 <img src="https://komarev.com/ghpvc/?username=ShivangiiSharma&style=flat-square&color=blue" alt=""/>
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shivangiisharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivangi Sharma" height="30" width="40" /></a>
 </p>   
