@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/opqnpCl1r7zEGEkXq2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/girl-working-from-home-opqnpCl1r7zEGEkXq2">via GIPHY</a></p>
+https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
