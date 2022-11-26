@@ -44,6 +44,6 @@ I am Shivangi, a backend developer
 <hr></hr>
 <h3>My stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShivangiiSharma)](https://git.io/streak-stats)![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivangiiSharma&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiiSharma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShivangiiSharma)](https://git.io/streak-stats)![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivangiiSharma&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ShivangiiSharma/github-readme-stats)
 
 
