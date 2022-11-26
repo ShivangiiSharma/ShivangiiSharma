@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif
+[https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif](https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
