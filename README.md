@@ -1,5 +1,8 @@
 ### Hi there 👋
-[https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif](https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/opqnpCl1r7zEGEkXq2/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
