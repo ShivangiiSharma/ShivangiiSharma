@@ -3,7 +3,7 @@ I am Shivangi, a backend developer
 
 <hr></hr>
 <div align="center">
-  <img src="https://bigideasforsmallbusiness.com/wp-content/uploads/2022/06/blog4site_6-7-22_Lessons-fr-Working-from-Home_DepositphotosL.jpg" width="800" height="300"/>
+  <img src="https://img.freepik.com/premium-vector/woman-sitting-table-with-laptop-working-computer-freelance-online-education-social-media-concept-working-from-home-remote-job-flat-style-illustration_186332-28.jpg?w=2000" width="800" height="300"/>
 </div>
 - 🌱 I’m currently learning JavaScrip and APIs
 - ⚡ Fun fact: I love reading novels  
