@@ -11,7 +11,7 @@ Hi there 👋
 I am Shivangi, a backend developer
   
   - 🌱 I’m currently learning **JavaScrip and APIs**
-  - ⚡ Fun fact:**I love reading novels**  
+  - ⚡ Fun fact: **I love reading novels**  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
