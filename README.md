@@ -2,7 +2,9 @@
 I am Shivangi, a backend developer
 
 <hr></hr>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 - 🌱 I’m currently learning JavaScrip and APIs
 - ⚡ Fun fact: I love reading novels  
 
