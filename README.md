@@ -38,7 +38,7 @@ I am Shivangi, a backend developer
 </p>   
 
 <hr></hr>
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ShivangiiSharma)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShivangiiSharma)](https://git.io/streak-stats)
+
 
