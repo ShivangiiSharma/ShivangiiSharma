@@ -38,6 +38,7 @@ I am Shivangi, a backend developer
 </p>   
 
 <hr></hr>
+<h3>My stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShivangiiSharma)](https://git.io/streak-stats)
 
