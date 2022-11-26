@@ -7,8 +7,9 @@
 
 About me :
 
-<h2>Hi there 👋 
+<h2>Hi there 👋 \n
   I am Shivangi, a backend developer</h2>
+  
   - 🌱 I’m currently learning JavaScrip and APIs
   - ⚡ Fun fact: I love reading novels  
 
