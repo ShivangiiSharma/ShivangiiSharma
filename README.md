@@ -3,7 +3,7 @@ I am Shivangi, a backend developer
 
 <hr></hr>
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw27yjp0rCA6wrPwSSJSorNF&ust=1669527600719000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjOko-Ry_sCFQAAAAAdAAAAABAE" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="600" height="300"/>
 </div>
 - 🌱 I’m currently learning JavaScrip and APIs
 - ⚡ Fun fact: I love reading novels  
