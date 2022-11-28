@@ -45,7 +45,7 @@ I am Shivangi, a backend developer
 <h3>My stats:</h3>
 
 
-<div>
+<div align="center">
   <div>
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivangiiSharma)](https://git.io/streak-stats)
   </div>
