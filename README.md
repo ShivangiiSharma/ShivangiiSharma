@@ -45,13 +45,5 @@ I am Shivangi, a backend developer
 <h3>My stats:</h3>
 
 
-<div align="center">
-  <div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivangiiSharma)](https://git.io/streak-stats)
-  </div>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiiSharma&layout=compact)]      (https://github.com/ShivangiiSharma/github-readme-stats)
-  </div>
-</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivangiiSharma)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiiSharma&layout=compact)](https://github.com/ShivangiiSharma/github-readme-stats)
 
