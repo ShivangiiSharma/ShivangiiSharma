@@ -41,7 +41,7 @@ I am Shivangi, a backend developer
   <a href="https://www.linkedin.com/in/shivangiisharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivangi Sharma" height="30" width="40" /></a>
 </p>   
 
-<hr></hr>
+
 <h3>My stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivangiiSharma)](https://git.io/streak-stats)
