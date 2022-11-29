@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/woman-sitting-table-with-laptop-working-computer-freelance-online-education-social-media-concept-working-from-home-remote-job-flat-style-illustration_186332-28.jpg?w=2000" width="700" height="300"/>
+  <img src="pic.png" width="700" height="300"/>
 </div>
 
 <hr></hr>
