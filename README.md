@@ -8,7 +8,7 @@
 <h3 align="left">About me:</h3>
 
 Hi there 👋
-I am Shivangi, a backend developer
+ I am Shivangi, a backend developer
   
   - 🌱 I’m currently learning: **JavaScript and APIs**
   - ⚡ Fun fact: **I love reading novels**  
