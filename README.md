@@ -10,7 +10,7 @@
 Hi there 👋
  I am Shivangi, a backend developer
   
-  - 🌱 I’m currently learning: **JavaScript and APIs**
+  - 🌱 I’m currently learning: **Node.js**
   - ⚡ Fun fact: **I love reading novels**  
 
 
