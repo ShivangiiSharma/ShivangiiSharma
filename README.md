@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="my_pic.png" width="700" height="300"/>
-</div>
 
 <hr></hr>
 
