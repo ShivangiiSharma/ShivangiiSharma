@@ -5,9 +5,9 @@
 <h3 align="left">About me:</h3>
 
 Hi there 👋
- I am Shivangi, a backend developer
+ I am Shivangi, a Frontend developer
   
-  - 🌱 I’m currently learning: **PHP**
+  - 🌱 I’m currently learning: **React**
   - ⚡ Fun fact: **I love reading novels**  
 
 
